@@ -144,7 +144,7 @@
       "@id": "leg:termsOfUse",
       "@type": "@id"
     },
-    "Špecifikácia podmienok použitia": "leg:termsOfUse",
+    "Špecifikácia podmienok použitia": "leg:TermsOfUse",
     "autorské_dielo": {
       "@id": "leg:authorsWorkType",
       "@type": "@id"
