@@ -139,13 +139,14 @@
       "@id": "dcat:distribution",
       "@type": "@id"
     },
-    "podmienky_použitia": {
-      "@id": "leg:termsOfUse",
-      "@type": "@id"
-    },  
     "Distribúcia": "dcat:Distribution",
     "podmienky_použitia": {
       "@id": "leg:termsOfUse",
+      "@type": "@id"
+    },
+    "Špecifikácia podmienok použitia": "leg:termsOfUse",
+    "autorské_dielo": {
+      "@id": "leg:authorsWorkType",
       "@type": "@id"
     },
     "autor": {
